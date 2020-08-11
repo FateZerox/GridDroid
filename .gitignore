@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!/src
+!/libs
+!/.idea
+!/tools/uiviewer
+!ant.properties
+!*.iml
+!build.xml
+!local.properties
+!project.properties
+.idea/workspace.xml

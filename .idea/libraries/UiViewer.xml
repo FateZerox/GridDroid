@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UiViewer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/uiviewer/UiViewer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
